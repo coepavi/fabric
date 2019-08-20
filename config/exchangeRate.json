@@ -1,0 +1,23 @@
+{
+	"EUREUR" : {
+		"id"  : "EUREUR",
+		"CCY" : "EUR",
+		"LCY" : "EUR",
+		"RTE" : "1"
+	},
+	  "EURUSD" :{
+		  "id"  : "EURUSD",
+		  "CCY" : "EUR",
+		  "LCY" : "USD",
+		  "RTE" : "1.13"
+	},
+	  "USDUSD" :{
+		  "id"  : "USDUSD",
+		  "CCY" : "USD",
+		  "LCY" : "USD",
+		  "RTE" : "1"
+	  }
+
+			
+}
+
